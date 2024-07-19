@@ -14,4 +14,8 @@ public class test {
 		System.out.println("Hello Line 8");
 	}
 
+	public int develop() {
+		
+		return 1;
+	}
 }
