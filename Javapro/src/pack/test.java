@@ -17,9 +17,9 @@ public class test {
 	}
 
 
-	
-public int abc() {
-		 return 1;
+	public int demo () {
+		
+		return 1;
 	}
 
 }
