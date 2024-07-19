@@ -2,8 +2,6 @@ package pack;
 
 public class test {
 
-	
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -15,13 +13,5 @@ public class test {
 		System.out.println("Hello Line 8");
 		System.out.println("Hello Line 8");
 	}
-
-
-	
-public int abc() {
-		 return 1;
-	}
-
-
 
 }
