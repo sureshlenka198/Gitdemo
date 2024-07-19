@@ -8,22 +8,8 @@ public class test3 {
 		
 
 		System.out.println("Hello Line 11");
-		System.out.println("Hello Line 111");
+		System.out.println("Hello Line 22");
 		
-		System.out.println("Hello Line 32");
-		System.out.println("Hello Line 33");
-        
-		
-		
-		
-		
-		
-		//Added row
-		System.out.println("Hello Line 23");
-		
-		
-		//Added row
-		System.out.println("Hello Line 24");
 				
 		
 
