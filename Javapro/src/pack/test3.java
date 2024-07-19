@@ -16,16 +16,14 @@ public class test3 {
 		
 		
 		
-		//dev2 
-		System.out.println("Hello Line 12");
-		System.out.println("Hello Line 22");
+		
 		
 		//Added row
 		System.out.println("Hello Line 23");
 		
 		
 		//Added row
-				System.out.println("Hello Line 24");
+		System.out.println("Hello Line 24");
 				
 		
 
