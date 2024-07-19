@@ -14,4 +14,9 @@ public class test {
 		System.out.println("Hello Line 8");
 	}
 
+	
+	public int demo () {
+		
+		return 1;
+	}
 }
